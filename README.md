@@ -4,7 +4,7 @@ I am passionate about development and deeply engaged in competitive programming 
 ## 🚀 About Me
 
 - 🌱 I am presently a developer specializing in the **MERN stack**.
-- 👨‍💻 All  projects are available at [here](https://github.com/Aditya122003)
+- 👨‍💻 All  projects are available at [here](https://github.com/Aditya122003?tab=repositories)
 - 💬 I’m passionate about **Competitive Programming** , **DSA** and **Web Development**
 - 📫 How to reach me: **[adityatiwari5175@gmail.com](mailto:adityatiwari5175@gmail.com)**
 - ⚡I thrive on tackling challenges and creating awesome projects.
