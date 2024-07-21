@@ -44,10 +44,7 @@ I am passionate about development and deeply engaged in competitive programming 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-White?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/mycodinge8o/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-tiwari-b15394263/)
 
-## 📊 GitHub Stats
-
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya122003&show_icons=true&theme=radical)
-
+ 
 ## 🎓 Education
 
 - **Degree:** B.Tech (Computer Science and Engineering ) 🎓
