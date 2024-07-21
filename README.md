@@ -35,7 +35,7 @@ I am passionate about development and deeply engaged in competitive programming 
 - Computer Networks (CN)
 - Software Engineering
 
-## 🌐 Coding Profiles
+## 🛠 Coding Profiles
 
 [![Codechef](https://img.shields.io/badge/Codechef-3--star-brightgreen?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/adityatiwar_21)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-green?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Aditya_t517)
