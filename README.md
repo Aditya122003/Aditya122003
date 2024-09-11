@@ -38,7 +38,7 @@ I am passionate about development and deeply engaged in competitive programming 
 ## 🛠 Coding Profiles
 
 [![Codechef](https://img.shields.io/badge/Codechef-3--star-brightgreen?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/adityatiwar_21)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-sky blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Aditya_t517)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-skyblue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Aditya_t517)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Adityatiwari_21/)
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-orange?style=for-the-badge&logo=codingninjas)](https://www.naukri.com/code360/profile/AdityaXnaruto)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-White?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/mycodinge8o/)
