@@ -3,7 +3,7 @@
 I am passionate about development and deeply engaged in competitive programming and DSA.
 ## 🚀 About Me
 
-- 🌱 I am presently a developer specializing in the **MERN stack**.
+- 🌱 I am presently a developer specializing in the **Full stack Development**.
 - 👨‍💻 All  projects are available at [here](https://github.com/Aditya122003?tab=repositories)
 - 💬 I’m passionate about **Competitive Programming** , **DSA** and **Web Development**
 - 📫 How to reach me: **[adityatiwari5175@gmail.com](mailto:adityatiwari5175@gmail.com)**
@@ -37,21 +37,22 @@ I am passionate about development and deeply engaged in competitive programming 
 
 ## 🛠 Coding Profiles
 
-[![Codechef](https://img.shields.io/badge/Codechef-3--star-brightgreen?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/adityatiwar_21)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-skyblue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Aditya_t517)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Adityatiwari_21/)
+[![LeetCode - Knight](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Adityatiwari_21/)
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-orange?style=for-the-badge&logo=codingninjas)](https://www.naukri.com/code360/profile/AdityaXnaruto)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-White?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/mycodinge8o/)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-tiwari-b15394263/)
+[My Portfolio](https://portfolioaditya112003.netlify.app/)
+
  
 ## 🎓 Education
 
 - **Degree:** B.Tech (Computer Science and Engineering ) 🎓
 - **College:** IET Lucknow  🏫
 - **Batch**:2021-2025
-- **CGPA:** 8.55/10 (Aggregate)
+- **CGPA:** 8.68/10 (Aggregate)
 
 ---
 
