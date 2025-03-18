@@ -1,11 +1,13 @@
  # Hi there, I'm Aditya Tiwari! 👨‍💻
 
 I am passionate about development and deeply engaged in competitive programming and DSA.
+##  Resume Link - [Click Here](https://drive.google.com/file/d/1ZJrFObtNu9woewxc8_WJw6kkhzZgOhZT/view?usp=sharing)
+
 ## 🚀 About Me
 
 - 🌱 I am presently a developer specializing in the **Full stack Development**.
 - 👨‍💻 All  projects are available at [here](https://github.com/Aditya122003?tab=repositories)
-- 💬 I’m passionate about **Competitive Programming** , **DSA** and **Web Development**
+- 💬 I’m passionate about **Competitive Programming** , **DSA** and **Web Development** you can see my coding profiles by clicking on platform icons.
 - 📫 How to reach me: **[adityatiwari5175@gmail.com](mailto:adityatiwari5175@gmail.com)**
 - ⚡I thrive on tackling challenges and creating awesome projects.
 
@@ -44,7 +46,8 @@ I am passionate about development and deeply engaged in competitive programming 
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-tiwari-b15394263/)
-[My Portfolio](https://portfolioaditya112003.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://portfolioaditya112003.netlify.app/))
+
 
  
 ## 🎓 Education
