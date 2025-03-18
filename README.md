@@ -5,7 +5,7 @@ I am passionate about development and deeply engaged in competitive programming 
 
 ## 🚀 About Me
 
-- 🌱 I am presently a developer specializing in the **Full stack Development**.
+- 🌱 I am presently a developer specializing in **Full stack Web Development**.
 - 👨‍💻 All  projects are available at [here](https://github.com/Aditya122003?tab=repositories)
 - 💬 I’m passionate about **Competitive Programming** , **DSA** and **Web Development** you can see my coding profiles by clicking on platform icons.
 - 📫 How to reach me: **[adityatiwari5175@gmail.com](mailto:adityatiwari5175@gmail.com)**
