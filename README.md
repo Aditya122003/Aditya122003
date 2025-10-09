@@ -1,7 +1,7 @@
  # Hi there, I'm Aditya Tiwari! 👨‍💻
 
 I am passionate about development and deeply engaged in competitive programming and DSA.
-##  Resume Link - [Click Here](https://drive.google.com/file/d/1ZJrFObtNu9woewxc8_WJw6kkhzZgOhZT/view?usp=sharing)
+##  Resume Link - [Click Here](https://drive.google.com/file/d/1fCrSPVFPUnWgxvg6VgqYzaIMfuM_ZTbY/view?usp=sharing)
 
 ## 🚀 About Me
 
@@ -28,6 +28,21 @@ I am passionate about development and deeply engaged in competitive programming 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
 
+
+## 🛠 Coding Profiles
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-skyblue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Aditya_t517)
+[![LeetCode - Knight](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Adityatiwari_21/)
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-orange?style=for-the-badge&logo=codingninjas)](https://www.naukri.com/code360/profile/AdityaXnaruto)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-White?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/mycodinge8o/)
+
+## 🏅 Certifications
+
+- [**Full-Stack Web Developer Certification — Udemy**](https://www.udemy.com/certificate/UC-a702c20c-ba8f-4c85-a36f-1b732c373268/)
+- [**Artificial Intelligence (AI) and Data Analytics Certification — L&T EduTech**](https://drive.google.com/file/d/1XX46Vj265SpKdd01Qsc4spM_sjDo1apX/view?usp=sharing)
+- [**Fundamentals of Database (MySQL and DBMS) Certification — L&T EduTech**](https://drive.google.com/file/d/1OOIgXsteFU36VtAvR2fG_GFvEFxsL8Gd/view?usp=sharing)
+
+
 ## 📚 Core Subjects
 
 - Data Structure and Algorithms (DSA)
@@ -37,12 +52,6 @@ I am passionate about development and deeply engaged in competitive programming 
 - Computer Networks (CN)
 - Software Engineering
 
-## 🛠 Coding Profiles
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-skyblue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Aditya_t517)
-[![LeetCode - Knight](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Adityatiwari_21/)
-[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-orange?style=for-the-badge&logo=codingninjas)](https://www.naukri.com/code360/profile/AdityaXnaruto)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-White?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/mycodinge8o/)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-tiwari-b15394263/)
