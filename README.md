@@ -62,9 +62,9 @@ I am passionate about development and deeply engaged in competitive programming 
 ## 🎓 Education
 
 - **Degree:** B.Tech (Computer Science and Engineering ) 🎓
-- **College:** IET Lucknow  🏫
+- **College:** IET Lucknow (Institute of Engineering and Technology,Lucknow)  🏫
 - **Batch**:2021-2025
-- **CGPA:** 8.68/10 (Aggregate)
+- **CGPA:** 8.63/10 
 
 ---
 
