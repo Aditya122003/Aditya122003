@@ -85,7 +85,6 @@ I am passionate about development and deeply engaged in competitive programming 
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-tiwari-b15394263/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolioaditya112003.netlify.app/)
 
 ---
 ⭐️ From [Aditya Tiwari](https://github.com/Aditya122003)
