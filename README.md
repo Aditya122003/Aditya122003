@@ -12,7 +12,7 @@ Software Developer at iTech Mission Pvt. Ltd., New Delhi — building full-stack
 ## Experience
 
 **Software Developer — iTech Mission Pvt. Ltd.**, New Delhi,
-* April 2026 – Present*
+- April 2026 – Present.
 - Developed and optimized SDG Dashboard modules using Angular, Node.js, and MongoDB, incorporating Redis, JWT authentication, uuid, Apache E-Charts, express-fileupload, and microservices-based architecture.
 - Designed and built an AI-powered automation bot for the Mauritius statistics project (MauStats), streamlining data processing and reporting across country modules covering Tourism, Cost of Living Index, and Business Trade.
 
