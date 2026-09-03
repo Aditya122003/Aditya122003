@@ -39,15 +39,21 @@ Full-stack job portal with 5+ advanced filters and real-time updates, enabling u
 
 ## Skills
 
-**Languages:** C, C++, Python, JavaScript, HTML5, CSS3, SQL
+**Languages**: C, C++, Python, JavaScript, HTML, CSS, SQL
 
-**Frameworks & Technologies:** Node.js, Angular, Express.js, MongoDB, MySQL, Redis
+**Frontend**: Angular, React, Reactive Forms, Apache E-Charts
 
-**AI Tools:** LangGraph, LangChain, Ollama, Hugging Face, Claude Code, Codex, Antigravity
+**Backend**: Node.js, Express.js, RESTful APIs, Microservices, JWT Authentication, OAuth 2.0
 
-**Developer Tools:** Git, GitHub, VS Code, Sublime Text, MongoDB Compass, Apache E-Charts
+**Databases, Caching & Messaging**: MongoDB, MySQL, Redis, Vector Databases, RabbitMQ, Database Modeling
 
-**Coursework:** Data Structures & Algorithms, OOPS, DBMS, Operating Systems, Computer Networks, Software Engineering
+**AI Technologies**: LangGraph, LangChain, RAG Pipelines, FAISS, ChromaDB, Hugging Face, Ollama, Generative AI, Agentic AI Systems, Gemini APIs, Claude Code
+
+**Core Engineering**: Distributed Systems, Data Structures & Algorithms, OOPS, Operating Systems, API Design
+
+**CI/CD & Development Tools**: Git, GitHub, GitLab, MySQL Workbench, MongoDB Compass, Antigravity, VS Code
+
+**Monitoring & Observability**: Application Logging, API Health Checks, Cron Jobs, Performance Tracking
 
 ---
 
