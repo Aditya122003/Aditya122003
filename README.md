@@ -2,7 +2,7 @@
 
 Software Developer at iTech Mission Pvt. Ltd., New Delhi — building full-stack web applications and exploring AI-driven automation. Active competitive programmer with 1000+ problems solved across platforms.
 
-- Resume: [View Resume](https://drive.google.com/file/d/1UcsU_IRrTdKUfYTg7-ZXScSt8tGM60GC/view?usp=sharing)
+- Resume: [View Resume](https://drive.google.com/file/d/1f6Kn9-Km9v50ALAL1Mj7w_OCjuWhPioO/view?usp=sharing)
 - Email: adityatiwari5175@gmail.com
 - GitHub: [github.com/Aditya122003](https://github.com/Aditya122003?tab=repositories)
 - LinkedIn: [linkedin.com/in/aditya-tiwari-b15394263](https://www.linkedin.com/in/aditya-tiwari-b15394263/)
